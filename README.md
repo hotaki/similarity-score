@@ -28,7 +28,7 @@ A script for peak assignment of IR spectra using similarity scores.
 	- The inputfile with more (less) peaks is automatically assigned to data2 (data1) (i.e., the order of inputfiles 1 & 2 does not affect the result).
 
 
-- The line which begins with "#" or "@" will be ignored (can be used for coment liens).
+- The line which begins with "#" or "@" will be ignored (can be used for coment lines).
 
 - A weight parameter "alpha" should be specified.
 
