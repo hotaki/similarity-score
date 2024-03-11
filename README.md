@@ -70,6 +70,5 @@ $ cat [output file] | grep -e '^#[!$]' > result.dat
 
 Please cite:
 
-H. Otaki, S.-I. Ishiuchi, M. Fujii, Y. Sugita, and K. Yagi
-Similarity scores of vibrational spectra reveal the atomistic structure of pentapeptides in multiple basins. Physical Chemistry Chemical Physics 2024, vol (issue), pp-pp. DOI: 10.1039/D4CP00064A (https://doi.org/10.1039/D4CP00064A)
+- H. Otaki, S.-I. Ishiuchi, M. Fujii, Y. Sugita, and K. Yagi, Similarity scores of vibrational spectra reveal the atomistic structure of pentapeptides in multiple basins. Physical Chemistry Chemical Physics 2024, vol (issue), pp-pp. DOI: [10.1039/D4CP00064A](https://doi.org/10.1039/D4CP00064A)
 
