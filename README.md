@@ -1,8 +1,9 @@
+![](https://img.shields.io/badge/Python-v3.x-green)
+[![](https://img.shields.io/badge/DOI-10.1039/D4CP00064A-blue)](https://doi.org/10.1039/D4CP00064A)
+
 # similarity-score.py
 
-A script for peak assignment of IR spectra using similarity scores.
-
-[![](https://img.shields.io/badge/DOI-10.1039/D4CP00064A-blue)](https://doi.org/10.1039/D4CP00064A)
+A python script for peak assignment of IR spectra using similarity scores.
 
 
 ## Author
