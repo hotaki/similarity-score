@@ -2,7 +2,7 @@
 
 A script for peak assignment of IR spectra using similarity scores.
 
-![DOI](https://img.shields.io/badge/DOI-10.1039/D4CP00064A-blue?link=https://doi.org/10.1039/D4CP00064A)
+[![](https://img.shields.io/badge/DOI-10.1039/D4CP00064A-blue)](https://doi.org/10.1039/D4CP00064A)
 
 
 ## Author
